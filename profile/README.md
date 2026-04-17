@@ -1,10 +1,10 @@
-# Claim 169 — Identity Data in QR Codes
+## 🪪 Claim 169 — Identity Data in QR Codes
 
-**A global, interoperable specification for embedding identity data in QR codes using CBOR Web Tokens (CWT).**
+**A standard global, interoperable specification for embedding identity data in QR codes using CBOR Web Tokens (CWT).**
 
 ---
 
-## Overview
+## 🔍 Overview
 
 **Claim 169** defines a standardized way to represent and encode **identity data of a person** inside a QR code using a compact, secure, and interoperable structure.
 
@@ -17,7 +17,7 @@ This specification is maintained under the **MOSIP ecosystem** and registered in
 
 ---
 
-## Why Claim 169?
+## ❓Why Claim 169?
 
 In many real-world scenarios, especially in remote or low-connectivity environments—online identity verification is not feasible.
 
@@ -34,9 +34,9 @@ Claim 169 solves this by:
 
 ---
 
-## Core Concepts
+## 🧠 Core Concepts
 
-### 1. Identity Data as CBOR Map
+### 🧾1. Identity Data as CBOR Map
 
 Claim 169 defines identity data as a **CBOR-encoded map** with structured attributes such as:
 
@@ -49,9 +49,7 @@ Claim 169 defines identity data as a **CBOR-encoded map** with structured attrib
 
 All fields are **optional**, allowing flexible implementations.
 
----
-
-### 2. Secure by Design
+### 🔐 2. Secure by Design
 
 - Uses **CBOR Web Token (CWT)** for compact encoding  
 - Signed using **COSE (e.g., COSE_Sign1)**  
@@ -63,9 +61,7 @@ This ensures:
 - Authenticity (trusted issuer)  
 - Privacy (optional encryption)  
 
----
-
-### 3. Optimized for QR Codes
+### ▣ 3. Optimized for QR Codes
 
 Due to QR size constraints, Claim 169:
 - Uses **CBOR instead of JSON**  
@@ -75,7 +71,7 @@ Due to QR size constraints, Claim 169:
 
 ---
 
-## Data Flow
+## 🔄 Data Flow
 
 ```text
 JSON Identity Data
@@ -109,8 +105,8 @@ QR Code Generation
 ## 🛡️ Security Considerations
 
 - All payloads **MUST be signed**  
-- Encryption is recommended for sensitive fields  
-- Trust depends on issuer key verification  
+- **Encryption** is recommended for sensitive fields  
+- **Trust** depends on issuer key verification  
 - Consumers must validate:
   - Signature  
   - Expiry (`exp`)  
@@ -134,9 +130,9 @@ Claim 169 is developed collaboratively by a global working group including:
 
 ### To propose enhancements:
 
-- Open an issue  
+- Open an [issue](https://github.com/Claim169/id-claim-169/issues)
+- Submit a specification proposal, or
 - Join the working group  
-- Submit a specification proposal  
 
 ---
 
