@@ -13,7 +13,7 @@ It enables:
 - **Cross-border interoperability**
 - **High-assurance authentication without connectivity**
 
-This specification is maintained under the **MOSIP ecosystem** and registered in the **IANA CWT Registry (Claim Key: 169)**.
+This specification is maintained under the **MOSIP ecosystem** and registered in the **[IANA CWT Registry](https://www.iana.org/assignments/cwt/cwt.xhtml) (Claim Key: 169)**.
 
 ---
 
@@ -107,7 +107,7 @@ QR Code Generation
 - All payloads **MUST be signed**  
 - **Encryption** is recommended for sensitive fields  
 - **Trust** depends on issuer key verification  
-- Consumers must validate:
+- Consumers must **validate**:
   - Signature  
   - Expiry (`exp`)  
   - Issuer (`iss`)  
