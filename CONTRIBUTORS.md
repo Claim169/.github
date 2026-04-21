@@ -1,4 +1,4 @@
-# 👥 Contributors
+## 👥 Contributors
 
 We recognize and thank all individuals and organizations contributing to **Claim 169 — Identity Data in QR Codes**.
 
@@ -52,7 +52,7 @@ If your contribution is missing or incorrectly represented, please:
 
 ---
 
-# 👥 Build With MOSIP — Join the Community
+## 👨‍👩‍👧‍👦 Build With MOSIP — Join the Community
 👉 Contribute or Propose on GitHub
 Want to propose new claim fields, submit issues, review pull requests, or improve documentation? Raise an issue on GitHub — or reach out to us directly.
 - [Raise an Issue on GitHub](https://github.com/Claim169/id-claim-169/issues)
@@ -60,7 +60,7 @@ Want to propose new claim fields, submit issues, review pull requests, or improv
 
 ---
 
-# 🤝Stay Connected
+## 🤝Stay Connected
 - Weekly Open Working Group Calls Calls > Every Thursday, 5–6 PM IST | [Click to join](https://meet.google.com/qnx-yvxc-dgo)
 - [Working Group Notes](https://mosip.atlassian.net/wiki/external/OWExMjBhYzQ3Mjk1NGZlOWExMWEzODA2YzVjYjExNmQ)
 - GitHub — Follow issues & repos, comment to express interest & contribute, [here](https://github.com/Claim169/id-claim-169/issues).
