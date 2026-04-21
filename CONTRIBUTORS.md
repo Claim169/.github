@@ -43,15 +43,6 @@ Contributions include (but are not limited to):
 
 ---
 
-## 🔄 Updating This List
-
-If your contribution is missing or incorrectly represented, please:
-
-* Open an [issue](https://github.com/Claim169/id-claim-169/issues)
-* Or submit a pull request to update this file
-
----
-
 ## 👨‍👩‍👧‍👦 Build With MOSIP — Join the Community
 👉 Contribute or Propose on GitHub
 Want to propose new claim fields, submit issues, review pull requests, or improve documentation? Raise an issue on GitHub — or reach out to us directly.
@@ -64,6 +55,15 @@ Want to propose new claim fields, submit issues, review pull requests, or improv
 - Weekly Open Working Group Calls Calls > Every Thursday, 5–6 PM IST | [Click to join](https://meet.google.com/qnx-yvxc-dgo)
 - [Working Group Notes](https://mosip.atlassian.net/wiki/external/OWExMjBhYzQ3Mjk1NGZlOWExMWEzODA2YzVjYjExNmQ)
 - GitHub — Follow issues & repos, comment to express interest & contribute, [here](https://github.com/Claim169/id-claim-169/issues).
+
+---
+
+## 🔄 Updating This List
+
+If your contribution is missing or incorrectly represented, please:
+
+* Open an [issue](https://github.com/Claim169/id-claim-169/issues)
+* Or submit a pull request to update this file
 
 ---
 
