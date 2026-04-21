@@ -15,6 +15,10 @@ It enables:
 
 This specification is maintained under the **MOSIP ecosystem** and registered in the **[IANA CWT Registry](https://www.iana.org/assignments/cwt/cwt.xhtml) (Claim Key: 169)**.
 
+Built through a **global, collaborative working group**, Claim 169 continues to evolve with contributions from across the ecosystem.
+
+👉 **[Explore the contributors and start contributing today](https://github.com/Claim169/.github/blob/main/CONTRIBUTORS.md)**!
+
 ---
 
 ## ❓Why Claim 169?
@@ -126,13 +130,25 @@ Claim 169 is developed collaboratively by a global working group including:
 - GIZ  
 - OpenSPP  
 - Ooru  
-- Others  
+- Others
 
-### To propose enhancements:
+---
+
+## ⭐ Get Involved
+
+Help shape the future of Claim 169 and interoperable digital identity:
+
+- ⭐ Star this repository
+- 🛠️ Contribute improvements
+- 🌐 Build interoperable identity solutions
+
+**Propose Enhancements:**
 
 - Open an [issue](https://github.com/Claim169/id-claim-169/issues)
 - Submit a specification proposal, or
-- Join the working group  
+- Join the working group
+
+Head to our [Contributors](https://github.com/Claim169/.github/blob/main/CONTRIBUTORS.md) section to know more!
 
 ---
 
@@ -159,12 +175,4 @@ Resham Chugani
 
 ---
 
-## ⭐ Get Involved
-
-- Star this repo ⭐  
-- Contribute improvements  
-- Build interoperable identity solutions  
-
----
-
-> **Claim 169 enables trusted identity — anywhere, anytime, even offline.**
+> **Claim 169 - Enabling trusted identity — anywhere, anytime, even offline.**
