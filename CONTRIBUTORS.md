@@ -44,8 +44,11 @@ Contributions include (but are not limited to):
 ---
 
 ## 👨‍👩‍👧‍👦 Build With Us — Join the Community
-👉 Contribute or Propose on GitHub
-Want to propose new claim fields, submit issues, review pull requests, or improve documentation? Raise an issue on GitHub — or reach out to us directly.
+
+**Contribute or Propose on GitHub**
+
+Want to propose new claim fields, submit issues, review pull requests, or improve documentation? 
+Raise an issue on GitHub — or reach out to us directly.
 - [Raise an Issue on GitHub](https://github.com/Claim169/id-claim-169/issues)
 - Contact us - resham@mosip.io
 
@@ -70,6 +73,7 @@ If your contribution is missing or incorrectly represented, please:
 ## 🙌 Acknowledgement
 
 Thank you!
+
 Every contribution — big or small — plays a critical role in advancing the **Claim 169 standard for secure, interoperable, and offline-capable digital identity**.
 
 ---
