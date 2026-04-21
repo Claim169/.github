@@ -15,7 +15,7 @@ The following organizations actively contribute to the specification, implementa
 * UNHCR (United Nations High Commissioner for Refugees)
 * Tech5
 * PwC (PricewaterhouseCoopers)
-* GIZ (German Agency for International Cooperation)
+* GIZ (The Deutsche Gesellschaft für Internationale Zusammenarbeit)
 * OpenSPP
 * Ooru
 
@@ -25,11 +25,7 @@ The following organizations actively contribute to the specification, implementa
 
 We acknowledge the contributions of developers, architects, and domain experts from across the community.
 
-<!-- Replace or auto-generate this list -->
-
-* @username1
-* @username2
-* @username3
+* TBA
 
 ---
 
@@ -39,7 +35,8 @@ Contributions include (but are not limited to):
 
 * Specification design and evolution
 * Security and cryptographic review
-* Reference implementations and SDKs
+* Reference implementations, SDKs and supporting components
+* Sandbox contributions
 * Documentation and examples
 * Testing and interoperability validation
 * Field deployments and feedback
@@ -48,20 +45,31 @@ Contributions include (but are not limited to):
 
 ## 🔄 Updating This List
 
-This file may be:
-
-* Maintained manually, or
-* Auto-generated from organization repositories
-
 If your contribution is missing or incorrectly represented, please:
 
-* Open an issue
+* Open an [issue](https://github.com/Claim169/id-claim-169/issues)
 * Or submit a pull request to update this file
+
+---
+
+# 👥 Build With MOSIP — Join the Community
+👉 Contribute or Propose on GitHub
+Want to propose new claim fields, submit issues, review pull requests, or improve documentation? Raise an issue on GitHub — or reach out to us directly.
+- [Raise an Issue on GitHub](https://github.com/Claim169/id-claim-169/issues)
+- Contact us - resham@mosip.io
+
+---
+
+# 🤝Stay Connected
+- Weekly Open Working Group Calls Calls > Every Thursday, 5–6 PM IST | [Click to join](https://meet.google.com/qnx-yvxc-dgo)
+- [Working Group Notes](https://mosip.atlassian.net/wiki/external/OWExMjBhYzQ3Mjk1NGZlOWExMWEzODA2YzVjYjExNmQ)
+- GitHub — Follow issues & repos, comment to express interest & contribute, [here](https://github.com/Claim169/id-claim-169/issues).
 
 ---
 
 ## 🙌 Acknowledgement
 
-Every contribution — big or small — plays a critical role in advancing **trusted digital identity systems globally**.
+Thank you!
+Every contribution — big or small — plays a critical role in advancing the **Claim 169 standard for secure, interoperable, and offline-capable digital identity**.
 
 ---
