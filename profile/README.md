@@ -17,7 +17,7 @@ This specification is maintained under the **MOSIP ecosystem** and registered in
 
 Built through a **global, collaborative working group**, Claim 169 continues to evolve with contributions from across the ecosystem.
 
-👉 **[Explore the contributors and start contributing today](https://github.com/Claim169/.github/blob/main/CONTRIBUTORS.md)**!
+👉 **[Explore more about the contributors and start contributing today](https://github.com/Claim169/.github/blob/main/CONTRIBUTORS.md)**!
 
 ---
 
